@@ -1,0 +1,112 @@
+﻿﻿@model IEnumerable<WebApplication5.Models.Surah>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h2 class="surah-heading">List of Surahs</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Arabic Name</th>
+            <th>English Name</th>
+            <th>Translation</th>
+            <th>Revelation Type</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var surah in Model)
+        {
+            <tr>
+                <td>@surah.Number</td>
+                <td>@surah.Name</td>
+                <td>@surah.EnglishName</td>
+                <td>@surah.EnglishNameTranslation</td>
+                <td>@surah.RevelationType</td>
+                <td>
+                    <a class="btn btn-primary" href="@Url.Action("Read", "Quran", new { id = surah.Number, language = Context.Request.Query["language"] })">Read</a>
+                    <a class="btn btn-success" href="@Url.Action("SurahAudio", "Quran", new { id = surah.Number })">Listen</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<style>
+
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: white; 
+        color: black;
+    }
+
+   
+    .surah-heading {
+        text-align: center;
+        color: white; 
+        font-weight: bold;
+        margin-bottom: 20px;
+        background: #4f5b66; 
+        border-radius: 5px;
+        font-size: 22px;
+    }
+
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        background: white;
+        border-radius: 5px;
+        overflow: hidden;
+    }
+
+        .table thead {
+            background-color: #4f5b66; 
+            color: white; 
+        }
+
+            .table thead th {
+                padding: 12px;
+                font-size: 16px;
+                text-align: center;
+                border: 1px solid #ddd;
+            }
+
+        .table tbody td:first-child,
+        .table tbody td:last-child {
+            background-color: #a7adba; 
+            color: black;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .table td {
+            padding: 12px;
+            text-align: center;
+            border: 1px solid #ddd; 
+            background-color: #007b9e;
+            color: white; 
+        }
+
+    .btn {
+        padding: 8px 15px;
+        font-size: 14px;
+        border-radius: 5px;
+        transition: all 0.3s ease-in-out;
+        text-decoration: none;
+        display: inline-block;
+    }
+
+  
+    .btn-primary {
+        background-color: #007bff;
+        color: white;
+        border: none;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+</style>

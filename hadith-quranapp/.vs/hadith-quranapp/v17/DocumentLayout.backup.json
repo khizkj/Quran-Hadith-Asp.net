@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\views\\quran\\surahaudio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\views\\quran\\surahaudio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\views\\quran\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\views\\quran\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\controllers\\qurancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\controllers\\qurancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\views\\quran\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\views\\quran\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\views\\hadith\\hadiths.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\views\\hadith\\hadiths.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\controllers\\hadithcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\controllers\\hadithcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\views\\hadith\\chapters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\views\\hadith\\chapters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\views\\hadith\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\views\\hadith\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\models\\hadithservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\models\\hadithservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\models\\surah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\models\\surah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\models\\quranservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\models\\quranservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|c:\\users\\hnj\\desktop\\portfolio\\hadith-quranapp\\hadith-quranapp\\models\\hadith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0890E612-0045-4281-B8A7-9CAE8D41C3FF}|hadith-quranapp\\hadith-quranapp.csproj|solutionrelative:hadith-quranapp\\models\\hadith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SurahAudio.cshtml",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Views\\Quran\\SurahAudio.cshtml",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Views\\Quran\\SurahAudio.cshtml",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Views\\Quran\\SurahAudio.cshtml",
+              "RelativeToolTip": "hadith-quranapp\\Views\\Quran\\SurahAudio.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwEUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T21:05:27.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Read.cshtml",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Views\\Quran\\Read.cshtml",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Views\\Quran\\Read.cshtml",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Views\\Quran\\Read.cshtml",
+              "RelativeToolTip": "hadith-quranapp\\Views\\Quran\\Read.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T21:04:00.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Views\\Quran\\Index.cshtml",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Views\\Quran\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Views\\Quran\\Index.cshtml",
+              "RelativeToolTip": "hadith-quranapp\\Views\\Quran\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T21:01:10.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hadiths.cshtml",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Views\\Hadith\\Hadiths.cshtml",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Views\\Hadith\\Hadiths.cshtml",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Views\\Hadith\\Hadiths.cshtml",
+              "RelativeToolTip": "hadith-quranapp\\Views\\Hadith\\Hadiths.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwGAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T20:58:09.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chapters.cshtml",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Views\\Hadith\\Chapters.cshtml",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Views\\Hadith\\Chapters.cshtml",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Views\\Hadith\\Chapters.cshtml",
+              "RelativeToolTip": "hadith-quranapp\\Views\\Hadith\\Chapters.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T20:57:38.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Views\\Hadith\\Index.cshtml",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Views\\Hadith\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Views\\Hadith\\Index.cshtml",
+              "RelativeToolTip": "hadith-quranapp\\Views\\Hadith\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T20:56:54.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuranController.cs",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Controllers\\QuranController.cs",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Controllers\\QuranController.cs",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Controllers\\QuranController.cs",
+              "RelativeToolTip": "hadith-quranapp\\Controllers\\QuranController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:53:41.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HadithController.cs",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Controllers\\HadithController.cs",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Controllers\\HadithController.cs",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Controllers\\HadithController.cs",
+              "RelativeToolTip": "hadith-quranapp\\Controllers\\HadithController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:52:46.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "hadith-quranapp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:50:21.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Program.cs",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Program.cs",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Program.cs",
+              "RelativeToolTip": "hadith-quranapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:49:15.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Surah.cs",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Models\\Surah.cs",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Models\\Surah.cs",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Models\\Surah.cs",
+              "RelativeToolTip": "hadith-quranapp\\Models\\Surah.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:48:32.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuranService.cs",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Models\\QuranService.cs",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Models\\QuranService.cs",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Models\\QuranService.cs",
+              "RelativeToolTip": "hadith-quranapp\\Models\\QuranService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:47:05.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HadithServices.cs",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Models\\HadithServices.cs",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Models\\HadithServices.cs",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Models\\HadithServices.cs",
+              "RelativeToolTip": "hadith-quranapp\\Models\\HadithServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:45:52.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hadith.cs",
+              "DocumentMoniker": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Models\\Hadith.cs",
+              "RelativeDocumentMoniker": "hadith-quranapp\\Models\\Hadith.cs",
+              "ToolTip": "C:\\Users\\hnj\\Desktop\\Portfolio\\hadith-quranapp\\hadith-quranapp\\Models\\Hadith.cs",
+              "RelativeToolTip": "hadith-quranapp\\Models\\Hadith.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:44:07.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

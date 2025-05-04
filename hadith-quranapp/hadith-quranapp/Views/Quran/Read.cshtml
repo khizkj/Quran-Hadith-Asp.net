@@ -1,0 +1,48 @@
+﻿@model Hadith-quranapp.Models.SurahDetails
+
+@{
+    ViewData["Title"] = "Read";
+    var languages = ViewBag.Languages as List<string> ?? new List<string>();
+    var selectedLanguage = ViewBag.SelectedLanguage as string ?? "en";
+}
+
+<h2>@Model.EnglishName</h2>
+<h3>@Model.EnglishNameTranslation</h3>
+<p><strong>Revelation Type:</strong> @Model.RevelationType</p>
+
+
+<form method="get" asp-action="Read" asp-controller="Quran">
+    <input type="hidden" name="id" value="@Model.Number" />
+    <label for="language">Choose Language:</label>
+    <select name="language" id="language" onchange="this.form.submit()">
+        @foreach (var lang in languages)
+        {
+            <option value="@lang" selected="@(lang == selectedLanguage ? "selected" : null)">@lang</option>
+        }
+    </select>
+</form>
+
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th style="text-align: right;">Arabic Text</th>
+            <th>Translation (@selectedLanguage.ToUpper())</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model?.Ayahs != null)
+        {
+            @foreach (var ayah in Model.Ayahs)
+            {
+                <tr>
+                    <td>@ayah.Number</td>
+                    <td style="direction: rtl; text-align: right; font-size: 20px;">@ayah.Text</td>
+                    <td>@(ayah.Translation ?? "Translation not available")</td>
+
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<style>
